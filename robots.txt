@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://resisace.github.io/sitemap.html.gz
+Sitemap: https://resisace.github.io/app/sitemap.html.gz
+Sitemap: https://resisace.github.io/assets/sitemap.html.gz
+Sitemap: https://resisace.github.io/css/sitemap.html.gz
+Sitemap: https://resisace.github.io/includes/sitemap.html.gz
+Sitemap: https://resisace.github.io/item/sitemap.html.gz
+Sitemap: https://resisace.github.io/src/sitemap.html.gz
